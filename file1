@@ -1,1 +1,9 @@
-hello
+<<<<<<< HEAD
+prints name 
+=======
+#!/bin/bash
+
+name=$1
+
+echo "name is $1"
+>>>>>>> 3e6966b439b57127c8f160df0a20b89c9ce2705e
